@@ -10,3 +10,9 @@ D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\obj\Debug\net8.0\TuneHive
 D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\obj\Debug\net8.0\refint\TuneHive.Application.dll
 D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\obj\Debug\net8.0\TuneHive.Application.pdb
 D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\obj\Debug\net8.0\ref\TuneHive.Application.dll
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\obj\Debug\net8.0\TuneHive.Application.csproj.AssemblyReference.cache
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\bin\Debug\net8.0\TuneHive.Application.runtimeconfig.json
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\bin\Debug\net8.0\TuneHive.Domain.dll
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\bin\Debug\net8.0\TuneHive.Domain.pdb
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\obj\Debug\net8.0\TuneHive.B9A8117F.Up2Date
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\obj\Debug\net8.0\TuneHive.Application.genruntimeconfig.cache

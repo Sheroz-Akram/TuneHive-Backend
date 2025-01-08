@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TuneHive.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e7c3dcb4301670ec6374f63c972cad0544441a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c225099adc319e67ee0e47b2b302f1818944003")]
 [assembly: System.Reflection.AssemblyProductAttribute("TuneHive.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TuneHive.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

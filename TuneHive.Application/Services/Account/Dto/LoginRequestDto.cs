@@ -11,9 +11,9 @@ namespace TuneHive.Application.Services.Account.Dto
     {
         [Required]
         [EmailAddress]
-        public string Email = string.Empty;
+        public string EmailAddress { get; set; } = string.Empty;
 
         [Required]
-        public string Password = string.Empty;
+        public string Password { get; set; } = string.Empty;
     }
 }

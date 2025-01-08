@@ -3,56 +3,40 @@
   "WorkspaceRootPath": "D:\\Work\\TuneHive\\TuneHive-Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Persistence\\Migrations\\20250108162239_SetupDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TuneHive.Persistence\\Migrations\\20250108162239_SetupDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8469B07-8A87-464F-A8B8-6D6F5AD4754F}|TuneHive.WebAPI\\TuneHive.WebAPI.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.webapi\\tunehive.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A8469B07-8A87-464F-A8B8-6D6F5AD4754F}|TuneHive.WebAPI\\TuneHive.WebAPI.csproj|solutionrelative:tunehive.webapi\\tunehive.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}|TuneHive.Persistence\\TuneHive.Persistence.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}|TuneHive.Persistence\\TuneHive.Persistence.csproj|solutionrelative:tunehive.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8469B07-8A87-464F-A8B8-6D6F5AD4754F}|TuneHive.WebAPI\\TuneHive.WebAPI.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A8469B07-8A87-464F-A8B8-6D6F5AD4754F}|TuneHive.WebAPI\\TuneHive.WebAPI.csproj|solutionrelative:tunehive.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8469B07-8A87-464F-A8B8-6D6F5AD4754F}|TuneHive.WebAPI\\TuneHive.WebAPI.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A8469B07-8A87-464F-A8B8-6D6F5AD4754F}|TuneHive.WebAPI\\TuneHive.WebAPI.csproj|solutionrelative:tunehive.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}|TuneHive.Persistence\\TuneHive.Persistence.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.persistence\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}|TuneHive.Persistence\\TuneHive.Persistence.csproj|solutionrelative:tunehive.persistence\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61FBFD0B-2018-47C9-9865-FCDFB946F034}|TuneHive.Application\\TuneHive.Application.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.application\\interfaces\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61FBFD0B-2018-47C9-9865-FCDFB946F034}|TuneHive.Application\\TuneHive.Application.csproj|solutionrelative:tunehive.application\\interfaces\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}|TuneHive.Persistence\\TuneHive.Persistence.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}|TuneHive.Persistence\\TuneHive.Persistence.csproj|solutionrelative:tunehive.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}|TuneHive.Persistence\\TuneHive.Persistence.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.persistence\\tunehive.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}|TuneHive.Persistence\\TuneHive.Persistence.csproj|solutionrelative:tunehive.persistence\\tunehive.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A8469B07-8A87-464F-A8B8-6D6F5AD4754F}|TuneHive.WebAPI\\TuneHive.WebAPI.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8469B07-8A87-464F-A8B8-6D6F5AD4754F}|TuneHive.WebAPI\\TuneHive.WebAPI.csproj|solutionrelative:tunehive.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8469B07-8A87-464F-A8B8-6D6F5AD4754F}|TuneHive.WebAPI\\TuneHive.WebAPI.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8469B07-8A87-464F-A8B8-6D6F5AD4754F}|TuneHive.WebAPI\\TuneHive.WebAPI.csproj|solutionrelative:tunehive.webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8469B07-8A87-464F-A8B8-6D6F5AD4754F}|TuneHive.WebAPI\\TuneHive.WebAPI.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.webapi\\tunehive.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A8469B07-8A87-464F-A8B8-6D6F5AD4754F}|TuneHive.WebAPI\\TuneHive.WebAPI.csproj|solutionrelative:tunehive.webapi\\tunehive.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{61FBFD0B-2018-47C9-9865-FCDFB946F034}|TuneHive.Application\\TuneHive.Application.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.application\\services\\account\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FBFD0B-2018-47C9-9865-FCDFB946F034}|TuneHive.Application\\TuneHive.Application.csproj|solutionrelative:tunehive.application\\services\\account\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B332EAD7-E7F6-4B9E-AB7F-05E8C98030DD}|TuneHive.Domain\\TuneHive.Domain.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.domain\\entity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B332EAD7-E7F6-4B9E-AB7F-05E8C98030DD}|TuneHive.Domain\\TuneHive.Domain.csproj|solutionrelative:tunehive.domain\\entity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61FBFD0B-2018-47C9-9865-FCDFB946F034}|TuneHive.Application\\TuneHive.Application.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.application\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FBFD0B-2018-47C9-9865-FCDFB946F034}|TuneHive.Application\\TuneHive.Application.csproj|solutionrelative:tunehive.application\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B332EAD7-E7F6-4B9E-AB7F-05E8C98030DD}|TuneHive.Domain\\TuneHive.Domain.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.domain\\common\\ihasmodificationtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B332EAD7-E7F6-4B9E-AB7F-05E8C98030DD}|TuneHive.Domain\\TuneHive.Domain.csproj|solutionrelative:tunehive.domain\\common\\ihasmodificationtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}|TuneHive.Persistence\\TuneHive.Persistence.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.persistence\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}|TuneHive.Persistence\\TuneHive.Persistence.csproj|solutionrelative:tunehive.persistence\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}|TuneHive.Persistence\\TuneHive.Persistence.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}|TuneHive.Persistence\\TuneHive.Persistence.csproj|solutionrelative:tunehive.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FBFD0B-2018-47C9-9865-FCDFB946F034}|TuneHive.Application\\TuneHive.Application.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.application\\services\\account\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FBFD0B-2018-47C9-9865-FCDFB946F034}|TuneHive.Application\\TuneHive.Application.csproj|solutionrelative:tunehive.application\\services\\account\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FBFD0B-2018-47C9-9865-FCDFB946F034}|TuneHive.Application\\TuneHive.Application.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.application\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FBFD0B-2018-47C9-9865-FCDFB946F034}|TuneHive.Application\\TuneHive.Application.csproj|solutionrelative:tunehive.application\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FBFD0B-2018-47C9-9865-FCDFB946F034}|TuneHive.Application\\TuneHive.Application.csproj|d:\\work\\tunehive\\tunehive-backend\\tunehive.application\\services\\account\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FBFD0B-2018-47C9-9865-FCDFB946F034}|TuneHive.Application\\TuneHive.Application.csproj|solutionrelative:tunehive.application\\services\\account\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,170 +51,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250108162239_SetupDB.cs",
-              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Persistence\\Migrations\\20250108162239_SetupDB.cs",
-              "RelativeDocumentMoniker": "TuneHive.Persistence\\Migrations\\20250108162239_SetupDB.cs",
-              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Persistence\\Migrations\\20250108162239_SetupDB.cs",
-              "RelativeToolTip": "TuneHive.Persistence\\Migrations\\20250108162239_SetupDB.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAsAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TuneHive.WebAPI\\Program.cs",
+              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.WebAPI\\Program.cs",
+              "RelativeToolTip": "TuneHive.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:22:39.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TuneHive.WebAPI",
-              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.WebAPI\\TuneHive.WebAPI.csproj",
-              "RelativeDocumentMoniker": "TuneHive.WebAPI\\TuneHive.WebAPI.csproj",
-              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.WebAPI\\TuneHive.WebAPI.csproj",
-              "RelativeToolTip": "TuneHive.WebAPI\\TuneHive.WebAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-08T16:19:04.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.WebAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "TuneHive.WebAPI\\appsettings.Development.json",
-              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.WebAPI\\appsettings.Development.json",
-              "RelativeToolTip": "TuneHive.WebAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-08T16:16:11.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "TuneHive.WebAPI\\appsettings.json",
-              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.WebAPI\\appsettings.json",
-              "RelativeToolTip": "TuneHive.WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-08T16:15:48.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Persistence\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "TuneHive.Persistence\\DependencyInjection.cs",
-              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Persistence\\DependencyInjection.cs",
-              "RelativeToolTip": "TuneHive.Persistence\\DependencyInjection.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:58:03.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Application\\Interfaces\\Repository\\IRepository.cs",
-              "RelativeDocumentMoniker": "TuneHive.Application\\Interfaces\\Repository\\IRepository.cs",
-              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Application\\Interfaces\\Repository\\IRepository.cs",
-              "RelativeToolTip": "TuneHive.Application\\Interfaces\\Repository\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:53:46.536Z",
+              "WhenOpened": "2025-01-08T17:37:09.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Persistence\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "TuneHive.Persistence\\DependencyInjection.cs",
+              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Persistence\\DependencyInjection.cs",
+              "RelativeToolTip": "TuneHive.Persistence\\DependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:12:07.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Persistence\\Repository.cs",
               "RelativeDocumentMoniker": "TuneHive.Persistence\\Repository.cs",
               "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Persistence\\Repository.cs",
               "RelativeToolTip": "TuneHive.Persistence\\Repository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwD4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:52:43.022Z",
+              "WhenOpened": "2025-01-08T17:07:44.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Persistence\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "TuneHive.Persistence\\ApplicationDBContext.cs",
-              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Persistence\\ApplicationDBContext.cs",
-              "RelativeToolTip": "TuneHive.Persistence\\ApplicationDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Application\\Services\\Account\\AccountService.cs",
+              "RelativeDocumentMoniker": "TuneHive.Application\\Services\\Account\\AccountService.cs",
+              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Application\\Services\\Account\\AccountService.cs",
+              "RelativeToolTip": "TuneHive.Application\\Services\\Account\\AccountService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:46:37.703Z",
+              "WhenOpened": "2025-01-08T17:03:09.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TuneHive.Persistence",
-              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Persistence\\TuneHive.Persistence.csproj",
-              "RelativeDocumentMoniker": "TuneHive.Persistence\\TuneHive.Persistence.csproj",
-              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Persistence\\TuneHive.Persistence.csproj",
-              "RelativeToolTip": "TuneHive.Persistence\\TuneHive.Persistence.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-08T15:44:37.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.WebAPI\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "TuneHive.WebAPI\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.WebAPI\\Controllers\\AccountController.cs",
               "RelativeToolTip": "TuneHive.WebAPI\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:43:54.152Z",
+              "WhenOpened": "2025-01-08T17:01:31.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TuneHive.WebAPI.http",
-              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.WebAPI\\TuneHive.WebAPI.http",
-              "RelativeDocumentMoniker": "TuneHive.WebAPI\\TuneHive.WebAPI.http",
-              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.WebAPI\\TuneHive.WebAPI.http",
-              "RelativeToolTip": "TuneHive.WebAPI\\TuneHive.WebAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-08T15:43:44.785Z",
+              "DocumentIndex": 3,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Application\\Responses\\Response.cs",
+              "RelativeDocumentMoniker": "TuneHive.Application\\Responses\\Response.cs",
+              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Application\\Responses\\Response.cs",
+              "RelativeToolTip": "TuneHive.Application\\Responses\\Response.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:00:46.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IHasModificationTime.cs",
-              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Domain\\Common\\IHasModificationTime.cs",
-              "RelativeDocumentMoniker": "TuneHive.Domain\\Common\\IHasModificationTime.cs",
-              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Domain\\Common\\IHasModificationTime.cs",
-              "RelativeToolTip": "TuneHive.Domain\\Common\\IHasModificationTime.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "RegistrationRequestDto.cs",
+              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Application\\Services\\Account\\Dto\\RegistrationRequestDto.cs",
+              "RelativeDocumentMoniker": "TuneHive.Application\\Services\\Account\\Dto\\RegistrationRequestDto.cs",
+              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Application\\Services\\Account\\Dto\\RegistrationRequestDto.cs",
+              "RelativeToolTip": "TuneHive.Application\\Services\\Account\\Dto\\RegistrationRequestDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:34:59.635Z",
+              "WhenOpened": "2025-01-08T16:56:16.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Domain\\Entity\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "TuneHive.Domain\\Entity\\ApplicationUser.cs",
-              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Domain\\Entity\\ApplicationUser.cs",
-              "RelativeToolTip": "TuneHive.Domain\\Entity\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Application\\Services\\Account\\Dto\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "TuneHive.Application\\Services\\Account\\Dto\\LoginRequestDto.cs",
+              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Application\\Services\\Account\\Dto\\LoginRequestDto.cs",
+              "RelativeToolTip": "TuneHive.Application\\Services\\Account\\Dto\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:33:08.247Z",
+              "WhenOpened": "2025-01-08T16:55:55.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Application\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "TuneHive.Application\\Interfaces\\IAccountService.cs",
+              "ToolTip": "D:\\Work\\TuneHive\\TuneHive-Backend\\TuneHive.Application\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "TuneHive.Application\\Interfaces\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:44:10.601Z",
               "EditorCaption": ""
             }
           ]

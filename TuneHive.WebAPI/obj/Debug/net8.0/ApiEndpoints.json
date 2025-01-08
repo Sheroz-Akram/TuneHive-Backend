@@ -2,7 +2,7 @@
   {
     "ContainingType": "TuneHive.WebAPI.Controllers.AccountController",
     "Method": "ForgotPassword",
-    "RelativePath": "ForgotPassword",
+    "RelativePath": "Account/ForgotPassword",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -18,7 +18,7 @@
   {
     "ContainingType": "TuneHive.WebAPI.Controllers.AccountController",
     "Method": "Login",
-    "RelativePath": "Login",
+    "RelativePath": "Account/Login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -34,7 +34,7 @@
   {
     "ContainingType": "TuneHive.WebAPI.Controllers.AccountController",
     "Method": "Register",
-    "RelativePath": "Register",
+    "RelativePath": "Account/Register",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -45,12 +45,22 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "TuneHive.Application.Responses.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "TuneHive.WebAPI.Controllers.AccountController",
     "Method": "ResetPassword",
-    "RelativePath": "ResetPassword",
+    "RelativePath": "Account/ResetPassword",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

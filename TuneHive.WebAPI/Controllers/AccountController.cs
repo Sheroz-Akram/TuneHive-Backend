@@ -1,14 +1,25 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using TuneHive.Application.Interfaces;
+using TuneHive.Application.Responses;
 using TuneHive.Application.Services.Account.Dto;
 
 namespace TuneHive.WebAPI.Controllers
 {
+    [Route("[controller]")]
+    [ApiController]
     public class AccountController: ControllerBase
     {
-        [HttpPost(nameof(Register))]
-        public async Task<ActionResult> Register([FromBody] RegistrationRequestDto request)
+        private readonly IAccountService _accountService;
+
+        public AccountController(IAccountService accountService)
         {
-            throw new NotImplementedException();
+            _accountService = accountService;
+        }
+
+        [HttpPost(nameof(Register))]
+        public async Task<Response> Register([FromBody] RegistrationRequestDto request)
+        {
+            return await _accountService.Register(request);
         }
 
         [HttpPost(nameof(Login))]

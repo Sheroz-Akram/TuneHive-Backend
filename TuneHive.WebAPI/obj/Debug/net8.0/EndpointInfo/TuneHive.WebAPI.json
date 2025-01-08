@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/Register": {
+    "/Account/Register": {
       "post": {
         "tags": [
           "Account"
@@ -31,12 +31,29 @@
         },
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Response"
+                }
+              }
+            }
           }
         }
       }
     },
-    "/Login": {
+    "/Account/Login": {
       "post": {
         "tags": [
           "Account"
@@ -67,7 +84,7 @@
         }
       }
     },
-    "/ForgotPassword": {
+    "/Account/ForgotPassword": {
       "post": {
         "tags": [
           "Account"
@@ -98,7 +115,7 @@
         }
       }
     },
-    "/ResetPassword": {
+    "/Account/ResetPassword": {
       "post": {
         "tags": [
           "Account"
@@ -146,13 +163,28 @@
         "additionalProperties": false
       },
       "LoginRequestDto": {
+        "required": [
+          "email",
+          "password"
+        ],
         "type": "object",
+        "properties": {
+          "email": {
+            "minLength": 1,
+            "type": "string",
+            "format": "email"
+          },
+          "password": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
         "additionalProperties": false
       },
       "RegistrationRequestDto": {
         "required": [
           "birthDate",
-          "email",
+          "emailAddress",
           "firstName",
           "lastName",
           "password"
@@ -169,9 +201,9 @@
           },
           "birthDate": {
             "type": "string",
-            "format": "date"
+            "format": "date-time"
           },
-          "email": {
+          "emailAddress": {
             "minLength": 1,
             "type": "string",
             "format": "email"
@@ -197,6 +229,26 @@
           "password": {
             "minLength": 8,
             "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Response": {
+        "type": "object",
+        "properties": {
+          "success": {
+            "type": "boolean"
+          },
+          "message": {
+            "type": "string",
+            "nullable": true
+          },
+          "errors": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "nullable": true
           }
         },
         "additionalProperties": false

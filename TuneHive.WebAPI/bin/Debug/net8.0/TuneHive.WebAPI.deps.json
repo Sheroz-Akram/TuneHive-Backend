@@ -901,6 +901,12 @@
         }
       },
       "TuneHive.Application/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.0",
+          "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0",
+          "TuneHive.Domain": "1.0.0"
+        },
         "runtime": {
           "TuneHive.Application.dll": {
             "assemblyVersion": "1.0.0",
