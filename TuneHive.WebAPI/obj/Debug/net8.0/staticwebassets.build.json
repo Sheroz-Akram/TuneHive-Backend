@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Ydcf5F0JCxxXqa9zawNTDZvMBPzuvDqyzntbyBdHXgg=",
+  "Source": "TuneHive.WebAPI",
+  "BasePath": "_content/TuneHive.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

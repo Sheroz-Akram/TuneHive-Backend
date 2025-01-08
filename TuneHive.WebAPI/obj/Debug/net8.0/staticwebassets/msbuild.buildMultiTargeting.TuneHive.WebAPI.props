@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TuneHive.WebAPI.props" />
+</Project>

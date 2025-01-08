@@ -1,0 +1,12 @@
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\bin\Debug\net8.0\TuneHive.Application.deps.json
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\bin\Debug\net8.0\TuneHive.Application.dll
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\bin\Debug\net8.0\TuneHive.Application.pdb
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\obj\Debug\net8.0\TuneHive.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\obj\Debug\net8.0\TuneHive.Application.AssemblyInfoInputs.cache
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\obj\Debug\net8.0\TuneHive.Application.AssemblyInfo.cs
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\obj\Debug\net8.0\TuneHive.Application.csproj.CoreCompileInputs.cache
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\obj\Debug\net8.0\TuneHive.Application.sourcelink.json
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\obj\Debug\net8.0\TuneHive.Application.dll
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\obj\Debug\net8.0\refint\TuneHive.Application.dll
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\obj\Debug\net8.0\TuneHive.Application.pdb
+D:\Work\TuneHive\TuneHive-Backend\TuneHive.Application\obj\Debug\net8.0\ref\TuneHive.Application.dll

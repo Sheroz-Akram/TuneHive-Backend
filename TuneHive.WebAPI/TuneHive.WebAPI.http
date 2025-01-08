@@ -1,0 +1,6 @@
+@TuneHive.WebAPI_HostAddress = http://localhost:5213
+
+GET {{TuneHive.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
