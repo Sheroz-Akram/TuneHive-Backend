@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuneHive.Application", "Tun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuneHive.Domain", "TuneHive.Domain\TuneHive.Domain.csproj", "{B332EAD7-E7F6-4B9E-AB7F-05E8C98030DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuneHive.Persistence", "TuneHive.Persistence\TuneHive.Persistence.csproj", "{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{B332EAD7-E7F6-4B9E-AB7F-05E8C98030DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B332EAD7-E7F6-4B9E-AB7F-05E8C98030DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B332EAD7-E7F6-4B9E-AB7F-05E8C98030DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,5 +62,6 @@ Global
 		{072E3352-6BF0-4643-AD25-48F1657C2D63} = {258AB40E-A703-4901-A9E1-673F451E2168}
 		{61FBFD0B-2018-47C9-9865-FCDFB946F034} = {E628911D-6613-41C4-947A-5154EC3865C0}
 		{B332EAD7-E7F6-4B9E-AB7F-05E8C98030DD} = {E628911D-6613-41C4-947A-5154EC3865C0}
+		{790A5E65-A311-4EAD-A6A9-3F45E8E77D8B} = {DA5FE0F9-8EC3-4915-B554-3BCE55A7DD04}
 	EndGlobalSection
 EndGlobal

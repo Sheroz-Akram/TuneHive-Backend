@@ -7,11 +7,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\TuneHive.Application\TuneHive.Application.csproj" />
+    <ProjectReference Include="..\TuneHive.Common\TuneHive.Common.csproj" />
+    <ProjectReference Include="..\TuneHive.Domain\TuneHive.Domain.csproj" />
+    <ProjectReference Include="..\TuneHive.Persistence\TuneHive.Persistence.csproj" />
   </ItemGroup>
 
 </Project>
